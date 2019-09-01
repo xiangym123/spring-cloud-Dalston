@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: eurek-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: xiangym
+Implementation-Vendor-Id: com.xiang
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/eurek-server
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
